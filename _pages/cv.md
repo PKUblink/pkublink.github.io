@@ -16,7 +16,7 @@ Education
 
 Experience
 ======
-* Summer 2024: Research Assistant
+* Summer 2024: AI for Mathematics Summer Camp
   * Beijing International Center for Mathematical Research
   * Peking University
   * Duties included: Write Lean programs and learn abstract algebra
