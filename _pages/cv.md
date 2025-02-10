@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* B.S. in Mathematics, Peking University, 2027 (expected)
 * B.S. in Electronic and Information Science and Technology, Peking University, 2027 (expected)
 
 Experience
