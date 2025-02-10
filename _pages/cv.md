@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Electronic and Information Science and Technology, Peking University, 2027 (expected)
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Research Assistant
+  * Beijing International Center for Mathematical Research
+  * Peking University
+  * Duties included: Write Lean programs and learn abstract algebra
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language: C/C++, Lean, Latex, Python
+* Mathematics: Calculus, Linear Algebra, Abstract Algebra, Complex Analysis, PDE
+* Physics: General Physics
+* EECS: Basic AI, Analogue electronics
+
+Awards and Scholarship
+======
+* 2024
+  * Yang Xin Lotus Virtue Awards, Peking University
+
 
 Publications
 ======
@@ -61,4 +53,17 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Fall 2024-Spring 2025: Vice Minister of Academic Department of Student Union
+  * School of EECS
+  * Peking University
+  * Duties included: Lead members and organize all kinds of activities
+
+* Fall 2023-Spring 2024: Member of Academic Department of Student Union
+  * School of EECS
+  * Peking University
+  * Duties included: Interview, organize all kinds of activities and write articles
+
+* Fall 2023-Spring 2024: Member of the Youth Volunteer Association
+  * School of EECS
+  * Peking University
+  * Duties included: held lectures for undergraduates at School of EECS and other schools and communicate with other departments
