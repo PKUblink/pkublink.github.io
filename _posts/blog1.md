@@ -1,7 +1,7 @@
 ---
 title: 'Journey to Shanxi'
-date: 2024-01
-permalink: /posts/2024/01/blog1/
+date: 2025-01-10
+permalink: /posts/20250110/blog1/
 tags:
   - travel
   - China
