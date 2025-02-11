@@ -17,7 +17,7 @@ redirect_from:
 * Thermal Physics
 * Introduction to Atomic Physics
 * Introduction to Atmosphere
-* Signals and Systems [Project](https://github.com/PKUblink/Identify_Voice)
+* Signals and Systems ([Project](https://github.com/PKUblink/Identify_Voice))
 * Analysis and Design of Analog Circuits
 * Practical Training in Electronic Engineering
 * Peking University in the History of Science and Technology
