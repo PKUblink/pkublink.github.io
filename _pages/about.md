@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wuhan Zhou"
+title: "Wuhan Zhou (周无寒)"
 author_profile: true
 redirect_from: 
   - /about/
