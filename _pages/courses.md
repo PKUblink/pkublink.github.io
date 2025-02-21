@@ -8,6 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
+2025 Spring
+======
+* Probability and Stochastic Processes
+* Introduction to Logic
+* Theoretical Mechanics B
+* Modern Western Philosophy of Science
+* Programming Design and Algorithm
+* Introduction to Microelectronics and Circuits
+* Design of Digital Circuits and Systems
+* Basic Electronics Lab
+* Basic Training of Electronics System
 
 2024 Fall
 ======
@@ -17,7 +28,7 @@ redirect_from:
 * Thermal Physics
 * Introduction to Atomic Physics
 * Introduction to Atmosphere
-* Signals and Systems ([Project](https://github.com/PKUblink/Identify_Voice))
+* Signals and Systems [Project](https://github.com/PKUblink/Identify_Voice)
 * Analysis and Design of Analog Circuits
 * Practical Training in Electronic Engineering
 * Peking University in the History of Science and Technology
