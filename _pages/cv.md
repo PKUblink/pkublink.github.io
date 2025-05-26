@@ -11,22 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Peking University, 2027 (expected)
 * B.S. in Electronic and Information Science and Technology, Peking University, 2027 (expected)
 
 Experience
 ======
 * Summer 2024: AI for Mathematics Summer Camp
-  * Beijing International Center for Mathematical Research
-  * Peking University
-  * Duties included: Write Lean programs and learn abstract algebra
+  * Beijing International Center for Mathematical Research, Peking University
+  * Write Lean programs and learn abstract algebra
   
 Skills
 ======
-* Programming language: C/C++, Lean, Latex, Python
-* Mathematics: Calculus, Linear Algebra, Abstract Algebra, Complex Analysis, PDE
-* Physics: General Physics
-* EECS: Basic AI, Analogue electronics
+* Programming language: C/C++, Lean, Latex, Matlab, Python, Verilog
+* Mathematics: Calculus, Linear Algebra, Abstract Algebra, Complex Analysis, Logic, PDE, Probability, Ramdon Process
+* Physics: General Physics, Analytical Mechanics
+* EECS: Basic AI, Analogue Electronics, Digital Electronics
 
 Awards and Scholarship
 ======
@@ -56,16 +54,10 @@ Teaching
 Service and leadership
 ======
 * Fall 2024-Spring 2025: Vice Minister of Academic Department of Student Union
-  * School of EECS
-  * Peking University
-  * Duties included: Lead members and organize all kinds of activities
+  * School of EECS, Peking University
 
 * Fall 2023-Spring 2024: Member of Academic Department of Student Union
-  * School of EECS
-  * Peking University
-  * Duties included: Interview, organize all kinds of activities and write articles
+  * School of EECS, Peking University
 
 * Fall 2023-Spring 2024: Member of the Youth Volunteer Association
-  * School of EECS
-  * Peking University
-  * Duties included: held lectures for undergraduates at School of EECS and other schools and communicate with other departments
+  * School of EECS, Peking University
