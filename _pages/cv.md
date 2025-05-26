@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic and Information Science and Technology, Peking University, 2027 (expected)
+* 2023- 2027(expected) B.S. in Electronic and Information Science and Technology, Peking University
 
 Experience
 ======
