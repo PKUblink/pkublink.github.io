@@ -18,7 +18,7 @@ redirect_from:
 * Introduction to Microelectronics and Circuits
 * Design of Digital Circuits and Systems ([Lab](https://github.com/PKUblink/Design-of-Digital-Circuits-and-Systems))
 * Basic Electronics Lab ([Lab 9](https://github.com/PKUblink/UART))
-* ([Basic Training of Electronics System](https://github.com/PKUblink/Basic-Training-of-Electronics-System))
+* [Basic Training of Electronics System](https://github.com/PKUblink/Basic-Training-of-Electronics-System)
 
 2024 Fall
 ======
