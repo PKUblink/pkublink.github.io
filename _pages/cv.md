@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2023- 2027(expected) B.S. in Electronic and Information Science and Technology, Peking University
+* 2023-2027(expected) B.S. in Electronic and Information Science and Technology, Peking University
+* 2020-2023 Zhenhai High School
 
 Experience
 ======
@@ -22,7 +23,7 @@ Experience
 Skills
 ======
 * Programming language: C/C++, Lean, Latex, Matlab, Python, Verilog
-* Mathematics: Calculus, Linear Algebra, Abstract Algebra, Complex Analysis, Logic, PDE, Probability, Ramdon Process
+* Mathematics: Calculus, Linear Algebra, Abstract Algebra, Complex Analysis, Logic, PDE, Probability, Stochastic Processes
 * Physics: General Physics, Analytical Mechanics
 * EECS: Basic AI, Analogue Electronics, Digital Electronics
 
