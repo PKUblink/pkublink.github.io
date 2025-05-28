@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wuhan Zhou"
+title                    : "Leopold Wuhan Zhou"
 title_separator          : "-"
-name                     : &name "Wuhan Zhou"
+name                     : &name "Leopold Wuhan Zhou"
 description              : &description "personal description"
 url                      : https://pkublink.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "PKUblink/apkublink.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "PKU Mathematics & EECS 27'"
   location         : "Beijing, China"
   employer         : "Peking University"
-  uri              : #https://www.pku.edu.cn//
+  uri              : # https://www.pku.edu.cn//
   email            : "2300012832@stu.pku.edu.cn" 
 
   # Academic websites
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : #"Blink4712Blink"
+  twitter          : # Username
   vine             : # Username
   weibo            : "7855153066"
   wikipedia        : # Username
