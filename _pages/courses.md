@@ -41,7 +41,7 @@ redirect_from:
 * Mathematical Thought from Ancient to Modern Times
 * Practice of Programming in C&C++
 * Introduction to Artificial Intelligence
-* Foundations and Advances in Synthetic Biology ([Slides](leopoldwuhanzhou.github.io/files/genomic.pdf))
+* Foundations and Advances in Synthetic Biology ([Slides](https://leopoldwuhanzhou.github.io/files/genomic.pdf))
 * National Relations of Middle East
 
 
