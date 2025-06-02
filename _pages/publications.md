@@ -10,3 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Coming soon …
+
+Notes
+======
+[Introduction to Logic](\files\Logic.pdf) 
