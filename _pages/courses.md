@@ -11,7 +11,7 @@ redirect_from:
 2025 Spring
 ======
 * Probability and Stochastic Processes
-* [Introduction to Logic](http://wangyanjing.com/intro2logic/)
+* [Introduction to Logic](http://wangyanjing.com/intro2logic/)  ([Notes](/files/Logic.pdf))
 * Theoretical Mechanics B
 * Modern Western Philosophy of Science
 * [Programming Design and Algorithm](https://github.com/LeopoldWuhanZhou/Programming-Design-and-Algorithm)
