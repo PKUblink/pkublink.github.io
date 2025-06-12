@@ -14,4 +14,5 @@ Coming soon …
 Notes
 ======
 [Stochastic Processes](/files/Stochastic.pdf)
+
 [Introduction to Logic](\files\Logic.pdf) 
